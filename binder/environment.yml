@@ -25,9 +25,9 @@ dependencies:
   - graphviz
   - nodejs
   - tqdm
-  - s3fs
-  - h5py
   - pip:
     - kubernetes
     - graphviz
     - git+https://github.com/martindurant/fsspec-reference-maker@grib
+    - s3fs
+    - h5py
