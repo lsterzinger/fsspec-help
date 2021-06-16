@@ -24,6 +24,9 @@ dependencies:
   - ipywidgets
   - graphviz
   - nodejs
+  - tqdm
+  - s3fs
+  - h5py
   - pip:
     - kubernetes
     - graphviz
